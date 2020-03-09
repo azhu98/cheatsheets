@@ -66,7 +66,9 @@ obj.child.sayHi()
 
 // OR you can use square brackets also
 obj['child']['sayHi']()
-if statements
+```
+### if statements
+```js
 if(2>1){
     console.log('yes! math is real!')
 }
